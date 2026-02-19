@@ -1,0 +1,16 @@
+/* クラスセレクター(header) */
+.header {
+  color: #fff;
+  background-color: #84ceef;
+}
+
+/* クラスセレクター(footer) */
+.footer {
+  color: #fff;
+  background-color: #040000;
+}
+
+h1 {
+  color: #e47292;
+  text-align: center;
+}
